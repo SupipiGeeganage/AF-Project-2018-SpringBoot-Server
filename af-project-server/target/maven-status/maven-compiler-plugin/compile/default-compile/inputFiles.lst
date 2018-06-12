@@ -1,6 +1,20 @@
+<<<<<<< HEAD
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\model\InPatient.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\repository\InPatientRepository.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\controller\OutPatientController.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\repository\OutPatientRepository.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\services\OutPatientService.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\servicesImplementation\InPatientImplementation.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\services\InPatientService.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\servicesImplementation\OutPatientImplementation.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\App.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\model\OutPatient.java
+C:\Users\Supipi Geeganage\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\controller\InPatientController.java
+=======
 C:\Users\Sahan Dharmapriya\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\registration\model\InPatient.java
 C:\Users\Sahan Dharmapriya\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\user\service\UserService.java
 C:\Users\Sahan Dharmapriya\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\user\model\Users.java
 C:\Users\Sahan Dharmapriya\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\App.java
 C:\Users\Sahan Dharmapriya\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\user\repository\UserRepository.java
 C:\Users\Sahan Dharmapriya\Documents\GitHub\AF-Project-2018-SpringBoot-Server\af-project-server\src\main\java\com\afproject\app\user\controller\UserLoginController.java
+>>>>>>> 7021e7c0a29975ea435ba30a86465a000757f108

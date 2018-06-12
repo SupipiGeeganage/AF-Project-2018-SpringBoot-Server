@@ -1,9 +1,25 @@
 com\afproject\app\App.class
+<<<<<<< HEAD
 META-INF\maven\com.afproject.app\af-project-server\pom.properties
 META-INF\MANIFEST.MF
+=======
+com\afproject\app\registration\repository\OutPatientRepository.class
+com\afproject\app\registration\model\OutPatient.class
+com\afproject\app\registration\repository\InPatientRepository.class
+com\afproject\app\registration\services\InPatientService.class
+com\afproject\app\registration\servicesImplementation\InPatientImplementation.class
+com\afproject\app\registration\services\OutPatientService.class
+com\afproject\app\registration\controller\OutPatientController.class
+com\afproject\app\registration\model\InPatient.class
+<<<<<<< HEAD
+com\afproject\app\registration\servicesImplementation\OutPatientImplementation.class
+com\afproject\app\registration\controller\InPatientController.class
+=======
+>>>>>>> 134bd7859f8f070a2771139de0c3ee36613211cd
 com\afproject\app\user\repository\UserRepository.class
 META-INF\maven\com.afproject.app\af-project-server\pom.xml
 com\afproject\app\user\service\UserService.class
 com\afproject\app\registration\model\InPatient.class
 com\afproject\app\user\controller\UserLoginController.class
 com\afproject\app\user\model\Users.class
+>>>>>>> 7021e7c0a29975ea435ba30a86465a000757f108
