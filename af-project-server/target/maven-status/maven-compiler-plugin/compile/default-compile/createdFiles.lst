@@ -1,6 +1,9 @@
 com\afproject\app\App.class
-com\afproject\app\registration\model\InPatient.class
+META-INF\maven\com.afproject.app\af-project-server\pom.properties
+META-INF\MANIFEST.MF
 com\afproject\app\user\repository\UserRepository.class
-com\afproject\app\user\controller\UserLoginController.class
+META-INF\maven\com.afproject.app\af-project-server\pom.xml
 com\afproject\app\user\service\UserService.class
+com\afproject\app\registration\model\InPatient.class
+com\afproject\app\user\controller\UserLoginController.class
 com\afproject\app\user\model\Users.class
