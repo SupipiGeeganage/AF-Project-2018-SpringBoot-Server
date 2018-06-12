@@ -1,2 +1,11 @@
 com\afproject\app\App.class
+com\afproject\app\registration\repository\OutPatientRepository.class
+com\afproject\app\registration\model\OutPatient.class
+com\afproject\app\registration\repository\InPatientRepository.class
+com\afproject\app\registration\services\InPatientService.class
+com\afproject\app\registration\servicesImplementation\InPatientImplementation.class
+com\afproject\app\registration\services\OutPatientService.class
+com\afproject\app\registration\controller\OutPatientController.class
 com\afproject\app\registration\model\InPatient.class
+com\afproject\app\registration\servicesImplementation\OutPatientImplementation.class
+com\afproject\app\registration\controller\InPatientController.class
