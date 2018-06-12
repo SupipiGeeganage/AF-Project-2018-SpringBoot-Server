@@ -7,5 +7,12 @@ com\afproject\app\registration\servicesImplementation\InPatientImplementation.cl
 com\afproject\app\registration\services\OutPatientService.class
 com\afproject\app\registration\controller\OutPatientController.class
 com\afproject\app\registration\model\InPatient.class
+<<<<<<< HEAD
 com\afproject\app\registration\servicesImplementation\OutPatientImplementation.class
 com\afproject\app\registration\controller\InPatientController.class
+=======
+com\afproject\app\user\repository\UserRepository.class
+com\afproject\app\user\controller\UserLoginController.class
+com\afproject\app\user\service\UserService.class
+com\afproject\app\user\model\Users.class
+>>>>>>> 7021e7c0a29975ea435ba30a86465a000757f108
